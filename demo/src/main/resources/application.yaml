@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: USCMGR-Aggregation
+
+server:
+  port: 8080

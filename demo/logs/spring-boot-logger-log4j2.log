@@ -1,0 +1,13 @@
+2024-11-03 23:14:21,700 INFO StartupInfoLogger [main] Starting AggregationApplication using Java 21.0.1 with PID 10920 (C:\Repo\aggregation\build\classes\java\main started by zd210 in C:\Repo\aggregation)
+2024-11-03 23:14:21,706 INFO SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2024-11-03 23:14:22,367 INFO GenericScope [main] BeanFactory id=38994a5f-c76f-3cdd-8a97-e0e59faaecf2
+2024-11-03 23:14:22,763 INFO TomcatWebServer [main] Tomcat initialized with port 8080 (http)
+2024-11-03 23:14:22,771 INFO DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-03 23:14:22,775 INFO DirectJDKLog [main] Starting service [Tomcat]
+2024-11-03 23:14:22,775 INFO DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/10.1.31]
+2024-11-03 23:14:22,824 INFO DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2024-11-03 23:14:22,825 INFO ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1090 ms
+2024-11-03 23:14:23,458 INFO EndpointLinksResolver [main] Exposing 1 endpoint beneath base path '/actuator'
+2024-11-03 23:14:23,485 INFO DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2024-11-03 23:14:23,501 INFO TomcatWebServer [main] Tomcat started on port 8080 (http) with context path '/'
+2024-11-03 23:14:23,513 INFO StartupInfoLogger [main] Started AggregationApplication in 2.214 seconds (process running for 2.829)
